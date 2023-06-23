@@ -22,9 +22,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\Release\net35\Accord.Video.Ximea.dll" target="lib\net35\Accord.Video.Ximea.dll" />
-    <file src="..\..\Release\net35\Accord.Video.Ximea.xml" target="lib\net35\Accord.Video.Ximea.xml" />
-
     <file src="..\..\Release\net40\Accord.Video.Ximea.dll" target="lib\net40\Accord.Video.Ximea.dll" />
     <file src="..\..\Release\net40\Accord.Video.Ximea.xml" target="lib\net40\Accord.Video.Ximea.xml" />
 

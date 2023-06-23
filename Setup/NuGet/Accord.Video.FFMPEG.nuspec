@@ -22,9 +22,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\Release\net35\GPL\Accord.Video.FFMPEG.dll" target="lib\net35\Accord.Video.FFMPEG.dll" />
-    <file src="..\..\Release\net35\GPL\Accord.Video.FFMPEG.xml" target="lib\net35\Accord.Video.FFMPEG.xml" />
-    
     <file src="..\..\Release\net40\GPL\Accord.Video.FFMPEG.dll" target="lib\net40\Accord.Video.FFMPEG.dll" />
     <file src="..\..\Release\net40\GPL\Accord.Video.FFMPEG.xml" target="lib\net40\Accord.Video.FFMPEG.xml" />
     

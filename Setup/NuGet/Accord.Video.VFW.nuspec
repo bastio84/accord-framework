@@ -22,9 +22,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\Release\net35\Accord.Video.VFW.dll" target="lib\net35\Accord.Video.VFW.dll" />
-    <file src="..\..\Release\net35\Accord.Video.VFW.xml" target="lib\net35\Accord.Video.VFW.xml" />
-
     <file src="..\..\Release\net40\Accord.Video.VFW.dll" target="lib\net40\Accord.Video.VFW.dll" />
     <file src="..\..\Release\net40\Accord.Video.VFW.xml" target="lib\net40\Accord.Video.VFW.xml" />
 

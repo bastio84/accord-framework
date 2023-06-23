@@ -26,9 +26,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="..\..\Release\net35\Accord.Controls.dll" target="lib\net35\Accord.Controls.dll" />
-    <file src="..\..\Release\net35\Accord.Controls.xml" target="lib\net35\Accord.Controls.xml" />
-
     <file src="..\..\Release\net40\Accord.Controls.dll" target="lib\net40\Accord.Controls.dll" />
     <file src="..\..\Release\net40\Accord.Controls.xml" target="lib\net40\Accord.Controls.xml" />
 

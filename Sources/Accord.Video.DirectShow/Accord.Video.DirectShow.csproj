@@ -92,9 +92,7 @@
     <Compile Include="Uuids.cs" />
     <Compile Include="VideoCapabilities.cs" />
     <Compile Include="VideoCaptureDevice.cs" />
-    <Compile Include="VideoCaptureDeviceForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="VideoCaptureDeviceForm.cs" />
     <Compile Include="VideoCaptureDeviceForm.Designer.cs">
       <DependentUpon>VideoCaptureDeviceForm.cs</DependentUpon>
     </Compile>
