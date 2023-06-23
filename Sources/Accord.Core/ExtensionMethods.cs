@@ -609,8 +609,10 @@ namespace Accord
         {
             unsafe
             {
-                System.TypedReference reference = __makeref(t);
-                return *(System.IntPtr*)(&reference);
+                throw new InvalidOperationException("Unused method commented by Axtra to compile");
+                
+                //System.TypedReference reference = __makeref(t);
+                //return *(System.IntPtr*)(&reference);
             }
         }
 
@@ -628,9 +630,11 @@ namespace Accord
         {
             unsafe
             {
-                System.TypedReference reference = __makeref(t);
-                System.TypedReference* pRef = &reference;
-                return (System.IntPtr)pRef; //(&pRef)
+                throw new InvalidOperationException("Unused method commented by Axtra to compile");
+
+                //System.TypedReference reference = __makeref(t);
+                //System.TypedReference* pRef = &reference;
+                //return (System.IntPtr)pRef; //(&pRef)
             }
         }
 #endif
